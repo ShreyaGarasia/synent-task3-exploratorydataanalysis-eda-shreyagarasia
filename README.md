@@ -12,9 +12,9 @@ Identify trends and patterns
 | Features | Type, Country, Rating, Release Year, Duration, Genre |
 
 ## Tasks 
-Summary statistics
-Correlation analysis
-Trend identification
+- Summary statistics
+- Correlation analysis
+- Trend identification
 
 ## Approach
 - Performed Summary Statistics
